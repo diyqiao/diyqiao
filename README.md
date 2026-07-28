@@ -1,14 +1,15 @@
 # Hi there, I'm Mr.Q 👋
 
-Tech Lead & Full-Stack Developer @ [万草堂 (wancaotang.cn)](https://wancaotang.cn)
+Tech Lead & Full-Stack Developer | [qiaofeng.site](https://qiaofeng.site)
 
 ---
 
 ### 🚀 About Me
 
+- 🌐 个人网站：[qiaofeng.site](https://qiaofeng.site)
+- 🏢 团队官网：[万草堂 (wancaotang.cn)](https://wancaotang.cn)
 - 💡 专注于企业级全栈开发、微信小程序生态、多租户溯源平台及 CMS 架构。
 - 🛠️ 常用技术栈：Next.js · TypeScript · Node.js · Python · Drizzle ORM · Directus CMS
-- 🌐 官方网站：[https://wancaotang.cn](https://wancaotang.cn)
 
 ---
 
